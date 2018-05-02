@@ -1,0 +1,48 @@
+body{
+    background-color: white;
+}
+
+form {
+    position: absolute;
+    margin: auto;
+    padding: 60px;
+    top: 250px;
+    right: 0;
+    bottom: 0;
+    left: 20px;
+    width: 70%;
+    height: 60%;
+    color:white;
+    border-radius: 3px;
+    font-family: Source Sans Pro;
+    font-size: 1rem;
+    vertical-align:middle;
+
+}
+.box {
+    position: absolute;
+    margin: auto;
+    padding: 60px;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 70%;
+    height: 60%;
+    color:white;
+    background-color: #31313a;
+    border-radius: 3px;
+    font-family: Source Sans Pro;
+    font-size: 1.8rem;
+    vertical-align:middle;
+   
+}
+.navbar-nav { 
+    position: absolute;
+    right: 0px;
+    margin: 30px;
+    padding: 10px;
+    font-size: 1.8rem;
+}
+
+

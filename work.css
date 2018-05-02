@@ -1,0 +1,85 @@
+<<<<<<< HEAD
+body {
+    background-color: lightpink;
+}
+.top-buffer { 
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+
+
+=======
+body{
+    background-color: #fef4f6;
+}
+>>>>>>> b361bd835f1477cf114093ff065d1e83b5a0ce0b
+.navbar-nav {
+    position: absolute;
+    right: 0px;
+    margin: 30px;
+    padding: 10px;
+    font-size: 1.8rem;
+}
+
+<<<<<<< HEAD
+.caption{
+    margin-top: 20px
+}
+.btn{
+    color: white;
+}
+.thumbnail {
+    margin-bottom: 80px;
+}
+.thumbnail2{
+    margin-top: 50px;
+=======
+.card {
+    vertical-align:middle;
+    top:300px;
+    left:300px;
+}
+.card-img-top {
+    height: 300px;
+    width: 285px;
+}
+
+.top-box {
+    position: absolute;
+    margin: auto;
+    padding: 20px;
+    top: 0;
+    right: 0;
+    bottom: 400px;
+    left: 0;
+    width: 860px;
+    height: 180px;
+    color:grey;
+    background-color: white;
+    border-radius: 3px;
+    font-family: Source Sans Pro;
+    font-size: 1.8rem;
+    vertical-align:middle;
+    
+}
+
+
+
+.bottom-box {
+    position: absolute;
+    margin: auto;
+    padding: 20px;
+    top: 1300px;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 860px;
+    height: 180px;
+    color:grey;
+    background-color: #fef4f6;
+    border-radius: 3px;
+    font-family: Source Sans Pro;
+    font-size: 1.8rem;
+    vertical-align:middle;
+>>>>>>> b361bd835f1477cf114093ff065d1e83b5a0ce0b
+}

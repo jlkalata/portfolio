@@ -1,0 +1,41 @@
+body  {
+    background-image: url("me.JPG");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+header {
+     font-family: rochester;
+     font-size: 5rem;
+     color: #c56d7d; 
+}
+
+
+.navbar-nav {
+    position: absolute;
+    right: 0px;
+    margin: 30px;
+    padding: 10px;
+    font-size: 1.8rem;
+}
+
+.name {
+    line-height: 600px;
+    margin-left: 0;
+    margin-right: auto;
+    width: 50%;
+    animation:fadein 5s;
+}
+
+<<<<<<< HEAD
+
+=======
+.name:hover {
+    transform: scale(1.1)
+}
+>>>>>>> b361bd835f1477cf114093ff065d1e83b5a0ce0b
+ @keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
