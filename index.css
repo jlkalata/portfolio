@@ -27,13 +27,8 @@ header {
     animation:fadein 5s;
 }
 
-<<<<<<< HEAD
 
-=======
-.name:hover {
-    transform: scale(1.1)
-}
->>>>>>> b361bd835f1477cf114093ff065d1e83b5a0ce0b
+
  @keyframes fadein {
     from { opacity: 0; }
     to   { opacity: 1; }

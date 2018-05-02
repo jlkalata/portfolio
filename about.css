@@ -1,5 +1,4 @@
 body{
-<<<<<<< HEAD
     background-color: #31313a;
     height: 100%;
 }
@@ -30,10 +29,8 @@ body{
     margin:0 auto;
   }
 
-=======
-    background-color: white;
-}
->>>>>>> b361bd835f1477cf114093ff065d1e83b5a0ce0b
+   
+
 .navbar-nav {
     position: absolute;
     right: 0px;
@@ -41,8 +38,8 @@ body{
     padding: 10px;
     font-size: 1.8rem;
 }
+
 .aboutbox {
-<<<<<<< HEAD
     position: relative;
     color:white;
     font-family: Source Sans Pro;
@@ -73,99 +70,3 @@ a{
 }
 
 
-
-
-
-
-
-
-
-
-=======
-    position: absolute;
-    margin: auto;
-    padding: 60px;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    width: 70%;
-    height: 60%;
-    color:white;
-    background-color: #31313a;
-    border-radius: 3px;
-    font-family: Source Sans Pro;
-    font-size: 2rem;
-    vertical-align:middle;
-   
-}
-
-#circle1 {
-	width: 200px;
-    height: 200px;
-    background:#c56d7d;
-    opacity: 0.8;
-	-moz-border-radius: 200px;
-	-webkit-border-radius: 200px;
-    border-radius: 200px;
-    margin-left: 50px;
-    margin-right: auto;
-    margin-top: 30px;
-    vertical-align:middle;
-    text-align: center;
-    padding-top: 75px;
-    color:white;
-    font-family: bitter;
-    animation: fadein 3s
-}
-
-#circle1:hover {
-    transform: scale(.8);
-}
-
-#circle2 {
-	width: 200px;
-    height: 200px;
-    background:#fef4f6;
-    opacity: 0.8;
-	-moz-border-radius: 200px;
-	-webkit-border-radius: 200px;
-    border-radius: 200px;
-    margin-left: 80px;
-    margin-right: auto;
-    margin-top: -65px;
-    vertical-align:middle;
-    text-align: center;
-    padding-top: 75px;
-    
-    font-family: bitter;
-    animation: fadein 5s
-}
-
-#circle2:hover {
-    transform: scale(.8);
-}
-
-#circle3 {
-	width: 200px;
-    height: 200px;
-    background:#595c6f;
-    opacity: 0.8;
-	-moz-border-radius: 200px;
-	-webkit-border-radius: 200px;
-    border-radius: 200px;
-    margin-left: 20px;
-    margin-right: auto;
-    margin-top: -60px;
-    animation: fadein 8s
-}
-
-#circle3:hover {
-    transform: scale(.8);
-}
-
-@keyframes fadein {
-    from { opacity: 0; }
-    to   { opacity: .8; }
-}
->>>>>>> b361bd835f1477cf114093ff065d1e83b5a0ce0b
